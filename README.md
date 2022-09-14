@@ -1,0 +1,1 @@
+# AIMS_Master-s_Thesis-The-Study-of-Over-parameterization-for-Physics-Informed-Neural-Networks
